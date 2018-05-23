@@ -6,7 +6,7 @@ public class matrixzero {
 		Scanner sc=new Scanner(System.in);
 		int n=sc.nextInt();
 		int m=sc.nextInt();
-		int l=0,p=0,g,f;
+		int l=0,p=0,g,p,hf;
 		int a[][]=new int[n][m];
 		for(int i=0;i<n;i++)
 		{
