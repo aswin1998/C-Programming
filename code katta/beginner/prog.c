@@ -1,10 +1,10 @@
 #include <stdio.h>
 int main() 
 {
-int n,m,i;
+int a,b,i;
 int count=0;
-scanf("%d,%d",&m,&n);
-for(i=m;i<=n;i++)
+scanf("%d,%d",&b,&a);
+for(i=b;i<=a;i++)
 {
  if(i%2!=0)
  {
